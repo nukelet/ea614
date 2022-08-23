@@ -1,4 +1,2 @@
 .venv
-!*.pdf
-!*.tex
 __pycache__/
